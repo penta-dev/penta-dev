@@ -1,8 +1,6 @@
-Game Developer (2012 ~ )
+Fullstack Developer (2012 ~ )
 
-Game Engine: Unity, Cocos2dx.
-
-Progamming Language: C\C++, C#, Objective-C, Swift, Java
+Progamming Language: C\C++, C#, Objective-C, Swift, Java, Node.js
 
 Target platform: iOS, Android, Windows, Mac OS
 

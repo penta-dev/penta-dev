@@ -1,4 +1,4 @@
-Fullstack Developer (2012 ~ )
+Fullstack Developer (2007 ~ )
 
 Progamming Language: C\C++, C#, Objective-C, Swift, Java, Kotlin, Node.js, PHP
 

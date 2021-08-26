@@ -1,4 +1,4 @@
-Senior Software Engineer (2007 ~ )
+Software Engineer (2012 ~ )
 
 Progamming Language: C\C++, C#, Objective-C, Swift, Java, Kotlin, Node.js, PHP ...
 
